@@ -15,7 +15,8 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "signify-ts": "https://github.com/WebOfTrust/signify-ts#development"
+    "signify-ts": "https://github.com/WebOfTrust/signify-ts#development",
+    "ws": "^8.14.2"
   },
   "devDependencies": {
     "@babel/core": "^7.20.12",
